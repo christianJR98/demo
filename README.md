@@ -3,9 +3,8 @@
 This is  simple readme file
 
 ## Heading 2
-Algo mas
-qwerraaaaaaaaaaaaaaarrr
-zzzzzzzzzzzzzzzzzzzzzzz
+Solo una linea
+y despues otra
 
 
 
